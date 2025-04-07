@@ -17,3 +17,17 @@ export async function evaluatePosition(fen: string) {
         return null;
     }
 }
+
+export async function getTopMoves(fen: string) {
+    try {
+        console.log('callapi:' + fen);
+
+        const res = await axios.get(`${SERVER_URL}/topmoves3?fen=${fen}`);
+        console.log('res3' + res.data);
+
+        return res.data; // { cp, bestMove }
+    } catch (err) {
+        console.error('Error getting top moves:', err);
+        return null;
+    }
+}

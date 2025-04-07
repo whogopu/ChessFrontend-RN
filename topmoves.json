@@ -1,0 +1,605 @@
+{
+    "topMoves": [
+        {
+            "from": "e2",
+            "to": "e4",
+            "promotion": "q",
+            "evaluation": 0.37,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "c7",
+                    "to": "c5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "d2",
+            "to": "d4",
+            "promotion": "q",
+            "evaluation": 0.36,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": []
+        },
+        {
+            "from": "e2",
+            "to": "e3",
+            "promotion": "q",
+            "evaluation": 0.25,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": []
+        },
+        {
+            "from": "g1",
+            "to": "f3",
+            "promotion": "q",
+            "evaluation": 0.24,
+            "depth": 15,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "d2",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "c2",
+                    "to": "c4",
+                    "promotion": null
+                },
+                {
+                    "from": "e7",
+                    "to": "e6",
+                    "promotion": null
+                },
+                {
+                    "from": "b1",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "a7",
+                    "to": "a6",
+                    "promotion": null
+                },
+                {
+                    "from": "c4",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "e6",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "c1",
+                    "to": "g5",
+                    "promotion": null
+                },
+                {
+                    "from": "c7",
+                    "to": "c6",
+                    "promotion": null
+                },
+                {
+                    "from": "e2",
+                    "to": "e4",
+                    "promotion": null
+                },
+                {
+                    "from": "d5",
+                    "to": "e4",
+                    "promotion": null
+                },
+                {
+                    "from": "g5",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "d8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "c3",
+                    "to": "e4",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "c2",
+            "to": "c3",
+            "promotion": "q",
+            "evaluation": 0.13,
+            "depth": 16,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                },
+                {
+                    "from": "d2",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "e5",
+                    "to": "e4",
+                    "promotion": null
+                },
+                {
+                    "from": "c3",
+                    "to": "c4",
+                    "promotion": null
+                },
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "b1",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "f8",
+                    "to": "b4",
+                    "promotion": null
+                },
+                {
+                    "from": "c1",
+                    "to": "g5",
+                    "promotion": null
+                },
+                {
+                    "from": "h7",
+                    "to": "h6",
+                    "promotion": null
+                },
+                {
+                    "from": "g5",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "d8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "e2",
+                    "to": "e3",
+                    "promotion": null
+                },
+                {
+                    "from": "b4",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "b2",
+                    "to": "c3",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "b1",
+            "to": "c3",
+            "promotion": "q",
+            "evaluation": 0.06,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "g2",
+            "to": "g3",
+            "promotion": "q",
+            "evaluation": 0.06,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": []
+        },
+        {
+            "from": "c2",
+            "to": "c4",
+            "promotion": "q",
+            "evaluation": 0.01,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "a2",
+            "to": "a3",
+            "promotion": "q",
+            "evaluation": -0.04,
+            "depth": 12,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "b2",
+            "to": "b3",
+            "promotion": "q",
+            "evaluation": -0.08,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "d2",
+            "to": "d3",
+            "promotion": "q",
+            "evaluation": -0.11,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "h2",
+            "to": "h3",
+            "promotion": "q",
+            "evaluation": -0.17,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "f2",
+            "to": "f4",
+            "promotion": "q",
+            "evaluation": -0.28,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "a2",
+            "to": "a4",
+            "promotion": "q",
+            "evaluation": -0.34,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                },
+                {
+                    "from": "d2",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "e5",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "g1",
+                    "to": "f3",
+                    "promotion": null
+                },
+                {
+                    "from": "c7",
+                    "to": "c5",
+                    "promotion": null
+                },
+                {
+                    "from": "c2",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "c3",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "e2",
+                    "to": "e3",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "h2",
+            "to": "h4",
+            "promotion": "q",
+            "evaluation": -0.4,
+            "depth": 15,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": []
+        },
+        {
+            "from": "b2",
+            "to": "b4",
+            "promotion": "q",
+            "evaluation": -0.44,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "b1",
+            "to": "a3",
+            "promotion": "q",
+            "evaluation": -0.61,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": []
+        },
+        {
+            "from": "f2",
+            "to": "f3",
+            "promotion": "q",
+            "evaluation": -0.67,
+            "depth": 14,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                },
+                {
+                    "from": "b1",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "b8",
+                    "to": "c6",
+                    "promotion": null
+                },
+                {
+                    "from": "e2",
+                    "to": "e3",
+                    "promotion": null
+                },
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "d2",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "f1",
+                    "to": "b5",
+                    "promotion": null
+                },
+                {
+                    "from": "f8",
+                    "to": "d6",
+                    "promotion": null
+                },
+                {
+                    "from": "g1",
+                    "to": "e2",
+                    "promotion": null
+                },
+                {
+                    "from": "e8",
+                    "to": "g8",
+                    "promotion": null
+                },
+                {
+                    "from": "e1",
+                    "to": "g1",
+                    "promotion": null
+                },
+                {
+                    "from": "a7",
+                    "to": "a6",
+                    "promotion": null
+                },
+                {
+                    "from": "b5",
+                    "to": "a4",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "g1",
+            "to": "h3",
+            "promotion": "q",
+            "evaluation": -0.73,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "e7",
+                    "to": "e5",
+                    "promotion": null
+                },
+                {
+                    "from": "b1",
+                    "to": "c3",
+                    "promotion": null
+                },
+                {
+                    "from": "d7",
+                    "to": "d5",
+                    "promotion": null
+                },
+                {
+                    "from": "d2",
+                    "to": "d4",
+                    "promotion": null
+                },
+                {
+                    "from": "e5",
+                    "to": "e4",
+                    "promotion": null
+                },
+                {
+                    "from": "c1",
+                    "to": "f4",
+                    "promotion": null
+                },
+                {
+                    "from": "g8",
+                    "to": "f6",
+                    "promotion": null
+                },
+                {
+                    "from": "e2",
+                    "to": "e3",
+                    "promotion": null
+                },
+                {
+                    "from": "c8",
+                    "to": "h3",
+                    "promotion": null
+                },
+                {
+                    "from": "g2",
+                    "to": "h3",
+                    "promotion": null
+                },
+                {
+                    "from": "f8",
+                    "to": "d6",
+                    "promotion": null
+                },
+                {
+                    "from": "f4",
+                    "to": "e5",
+                    "promotion": null
+                }
+            ]
+        },
+        {
+            "from": "g2",
+            "to": "g4",
+            "promotion": "q",
+            "evaluation": -1.1,
+            "depth": 13,
+            "pv": 1,
+            "mateScore": null,
+            "subsequentMoves": [
+                {
+                    "from": "b8",
+                    "to": "c6",
+                    "promotion": null
+                }
+            ]
+        }
+    ],
+    "evaluation": 0.37,
+    "depth": 13,
+    "progress": {
+        "current": 20,
+        "total": 20
+    }
+}
